@@ -1,7 +1,6 @@
 - 👋 Olá! Sou Nathaly.
-- 👀 Sou estudante do Técnico em Desenvolvimento de Sistemas pela ETEC (2024 - 2025).
-- 🌱 Estou estudando as linguagens Javascript, Java e Python atualmente.
-- 💞️ Sou iniciante e estarei utilizando essa plataforma para registrar meu aprendizado em programação.
-- 📫 E-mail para contato: nanacapm@gmail.com 
+- 👀 Sou estudante do Técnico em Desenvolvimento de Sistemas pela ETEC.
+- 🌱 Estou estudando as linguagens Javascript, Java, PHP e SQL.
+- 📫 E-mail: nanacapm@gmail.com 
 
 <img src="https://myreadme.vercel.app/api/embed/nathyalves?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

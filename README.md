@@ -1,5 +1,5 @@
 - 👋 Olá! Sou Nathaly.
-- 👀 Sou estudante do Técnico em Desenvolvimento de Sistemas pela ETEC.
+- 👀 Formada técnica em Desenvolvimento de Sistemas pela ETEC, cursando tecnólogo em Sistemas para Internet.
 - 🌱 Estou estudando Desenvolvimento Web e estarei registrando meu aprendizado por aqui.
 - 📫 E-mail: nanacapm@gmail.com 
 

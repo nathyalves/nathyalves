@@ -1,6 +1,6 @@
 - 👋 Olá! Sou Nathaly.
-- 👀 Técnica em Desenvolvimento de Sistemas pela ETEC, cursando tecnólogo em Sistemas para Internet.
-- 🌱 Estou estudando Desenvolvimento Web e estarei registrando meu aprendizado por aqui.
+- 👀 Técnica em Desenvolvimento de Sistemas pela ETEC.
+- 🌱 Estudando Desenvolvimento Web.
 - 📫 E-mail: nanacapm@gmail.com 
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathyalves" />

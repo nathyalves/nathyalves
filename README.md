@@ -2,6 +2,3 @@
 - 👀 Técnica em Desenvolvimento de Sistemas pela ETEC e graduanda em Análise e Desenvolvimento de Sistemas.
 - 🌱 Registrando por aqui tudo o que venho estudando.
 - 📫 E-mail: nanacapm@gmail.com 
-
-  
- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathyalves&layout=compact&theme=dracula)   

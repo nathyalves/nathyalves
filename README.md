@@ -1,4 +1,4 @@
 - 👋 Olá! Sou Nathaly.
-- 👀 Técnica em Desenvolvimento de Sistemas pela ETEC e graduanda em Análise e Desenvolvimento de Sistemas.
+- 👀 Técnica em Desenvolvimento de Sistemas pela ETEC e graduanda em Bacharelado em Tecnologia da Informação pela Univesp.
 - 🌱 Registrando por aqui tudo o que venho estudando.
 - 📫 E-mail: nanacapm@gmail.com 
